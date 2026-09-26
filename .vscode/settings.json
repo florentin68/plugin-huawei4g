@@ -3,6 +3,7 @@
         "./3rdparty/huawei-lte-api"
     ],
     "chat.tools.terminal.autoApprove": {
-        "git remote": true
+        "git remote": true,
+        "git rev-parse": true
     }
 }
